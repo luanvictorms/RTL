@@ -1,3 +1,3 @@
 # RTL
-Iniciando na programação
+Iniciando na programação.
 Desenvolvi inicialmente uma calculadora onde calcula a tabuada do numero desejado em javascript
