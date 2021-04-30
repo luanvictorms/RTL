@@ -1,3 +1,3 @@
 # RTL
 Iniciando na programação.
-Desenvolvi inicialmente uma calculadora onde calcula a tabuada do numero desejado em javascript
+Projetos de aprendizagem em geral, aprendendo a programar, logica da progração e projetos inicais!
