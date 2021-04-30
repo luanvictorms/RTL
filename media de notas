@@ -1,0 +1,22 @@
+function main() {
+    var textosoma, textoporcentagem, textomedia;
+    var n1, n2, n3, n4, media, soma, totalprova, porcentagem;
+    
+    textosoma = "A soma das notas é:";
+    textoporcentagem = "A porcentagem de nota é:";
+    textomedia = "A media do aluno é:";
+    totalprova = window.prompt('Enter a value for totalprova');
+    n1 = window.prompt('Enter a value for n1');
+    n2 = window.prompt('Enter a value for n2');
+    n3 = window.prompt('Enter a value for n3');
+    n4 = window.prompt('Enter a value for n4');
+    soma = n1 + n2 + n3 + n4;
+    window.alert(textosoma);
+    window.alert(soma);
+    porcentagem = soma / totalprova * 100;
+    window.alert(textoporcentagem);
+    window.alert(porcentagem);
+    media = (n1 + n2 + n3 + n4) / 4;
+    window.alert(textomedia);
+    window.alert(media);
+}
