@@ -1,0 +1,12 @@
+function main() {
+    var numero, limite, tabuada;
+    
+    numero = 0;
+    limite = 10;
+    window.alert("Declare o valor que voce quer a tabuada:");
+    tabuada = window.prompt('Enter a value for tabuada');
+    while (numero <= limite) {
+        window.alert(tabuada.ToString() + "x" + numero + " = " + tabuada * numero);
+        numero = numero + 1;
+    }
+}
