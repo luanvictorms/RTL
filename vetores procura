@@ -1,0 +1,27 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro vetor[] = { 1, 3, 5, 7, 9 }
+		inteiro numero
+		logico achou = falso
+
+		escreva ("Qual e o numero que procuras?")
+		leia (numero)
+
+		para (inteiro posicao = 0; posicao <5; posicao++)
+		{
+			se (vetor[posicao] == numero)
+			{
+			escreva ("Encontrado na posição:", posicao, "\n")
+			achou = verdadeiro
+			}
+		}
+		se (nao achou)
+		{
+		escreva ("O numero que procuras não esta no vetor\n")
+		}
+	}
+	
+}
