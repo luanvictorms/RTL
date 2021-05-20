@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=luanvictorms&color=006bed)
 
 <h3> 👨‍🦲: &nbsp;Sobre mim </h3>
 
@@ -42,5 +42,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Luan Victor](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanvictorms@gmail.com)](mailto:luanvictorms@gmail.com)
+[![Linkedin: Luan Victor](https://img.shields.io/badge/-Luan Victor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-victor-61756518b/)](https://www.linkedin.com/in/luan-victor-61756518b/)
+[![Gmail Badge](https://img.shields.io/badge/-luanvictorms@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanvictorms@gmail.com)](mailto:luanvictorms@gmail.com)
