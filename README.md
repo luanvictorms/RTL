@@ -35,7 +35,7 @@
 <br/>
 
 <a href="https://github.com/luanvictorms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanvictorms&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
